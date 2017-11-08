@@ -43,5 +43,5 @@ router.route('/retos/:reto_id')
 
 
   //inicia el server
-  app.listen(8080;
+  app.listen(8080);
   //console.log('Wait smile in ' + port);
