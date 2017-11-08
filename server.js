@@ -16,7 +16,7 @@ app.use(bodyParser.urlencoded({
   extended: true
 }));
 //definir puerto
-var port = process.env.PORT || 3000;
+var port = process.env.PORT || 8080;
 // crear ruteo
 var router = express.Router();
 
